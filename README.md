@@ -1,2 +1,2 @@
 # rocket-pack
-Sample Site
+Sample Site for the Rocketpack
